@@ -2,15 +2,7 @@
   "name": "opencli",
   "version": "1.8.4",
   "description": "Skills and tools for OpenCLI automation, browsing, and custom adapter creation.",
-  "skills": [
-    "opencli-adapter-author",
-    "opencli-autofix",
-    "opencli-browser",
-    "opencli-browser-sitemap",
-    "opencli-sitemap-author",
-    "opencli-usage",
-    "smart-search"
-  ],
+  "skills": "./skills/",
   "author": {
     "name": "jackwener",
     "url": "https://github.com/jackwener"
